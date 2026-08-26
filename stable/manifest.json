@@ -1,0 +1,10 @@
+{
+  "version": "5.7.0",
+  "channel": "stable",
+  "revitVersion": "2024",
+  "asset": "ZMHelper-5.7.0-Revit2024.zip",
+  "sha256": "38a680d6a773bbc34ccdfc834e9b8e9917c754199364998d3d380c98278e861a",
+  "releaseNotes": "",
+  "minimumManagerVersion": "1.0.0",
+  "packageUrl": "https://github.com/xxzz666-netizen/revitaddin-ZM-distribution/releases/download/v5.7.0/ZMHelper-5.7.0-Revit2024.zip"
+}
