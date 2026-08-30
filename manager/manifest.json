@@ -1,5 +1,5 @@
-{
-  "version": "1.0.0",
-  "asset": "https://github.com/xxzz666-netizen/revitaddin-ZM-distribution/releases/latest/download/ZMHelper.Manager.exe",
-  "sha256": "d564261df4de3d99191ef6a94de4dead6edbb626c20850c5274fde8b0dc2083b"
+﻿{
+    "version":  "1.0.1",
+    "asset":  "https://github.com/xxzz666-netizen/revitaddin-ZM-distribution/releases/download/manager-v1.0.1/ZMHelper.Manager.exe",
+    "sha256":  "FC27D6E6A96877323E9E4B8F44851601996AD3A396E72960CF72AD8B66E14EAE"
 }
